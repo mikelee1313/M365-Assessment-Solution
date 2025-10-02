@@ -82,7 +82,7 @@ Graph: Application: Application.ReadWrite.All
     - Some permissions may require additional admin consent in the Azure portal
 
  AUTHOR
-    Michael Lee
+    Mike Lee
     Date: 10/2/25
 #>
 
