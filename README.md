@@ -50,14 +50,7 @@ A comprehensive PowerShell script for automated Microsoft 365 assessments using 
 # Visit: https://github.com/pnp/pnpassessment/releases
 # Extract to: C:\temp\microsoft365-assessment.exe
 ```
-
-### 2. Clone or Download Script
-```bash
-git clone https://github.com/yourusername/m365-assessment-scanner.git
-# OR download 365-Assessment-Scanner.ps1 directly
-```
-
-### 3. Configure Variables
+### 2. Configure Variables
 Edit the script variables at the top of `365-Assessment-Scanner.ps1`:
 
 ```powershell
