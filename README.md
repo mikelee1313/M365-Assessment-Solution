@@ -233,9 +233,9 @@ Get-M365AssessmentAppConfig
 ### Required Azure AD Permissions
 
 #### Creation App (Existing)
-- `Application.ReadWrite.All` - Create and manage applications
-- `Directory.ReadWrite.All` - Read and write directory data  
-- `AppRoleAssignment.ReadWrite.All` - Grant permissions to applications
+- `Graph: Application: Application.ReadWrite.All` - Create and manage applications
+- `Graph: Application: Directory.ReadWrite.All` - Read and write directory data  
+- `Graph: Application: AppRoleAssignment.ReadWrite.All` - Grant permissions to applications
 
 #### M365 Assessment App (Created)
 **Microsoft Graph:**
